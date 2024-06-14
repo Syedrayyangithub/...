@@ -13,7 +13,7 @@ public class Prgm1 {
  arrayList.add(9);
  System.out.println("Initial ArrayList: " + arrayList);
  // Remove an element from the ArrayList
- arrayList.remove(2);
+ arrayList.remove(1);
  System.out.println("ArrayList after removing an element: " + arrayList);
  // Sort the ArrayList
  Collections.sort(arrayList);
